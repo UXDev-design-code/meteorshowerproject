@@ -1,0 +1,51 @@
+/* colors */
+.blue {
+    color: #1e87f0;
+}
+
+body, h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: #070707;
+}
+
+.about-photo {
+    background-image: url(../assets/photos/star-2.png);
+    background-size: cover;
+    background-position: right
+}
+
+.join-photo {
+    background-image: url(../assets/photos/milky-way.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.small-icon {
+    max-width: 50px;
+}
+.medium-icon {
+    max-width: 100px;
+}
+.big-icon {
+    max-width: 150px;
+}
+
+.white-text {
+    color: white;
+}
+
+.map {
+    height: 100%;
+}
+
+.vertical-aligned {
+    vertical-align: middle;
+}
+
+.input {
+    background: rgba(0, 0, 0, .7);
+    border: none;
+}
