@@ -36,6 +36,9 @@ body {
 .white-text {
     color: white;
 }
+.uk-navbar-nav>li>a {
+    color: white;
+}
 
 .map {
     height: 100%;
